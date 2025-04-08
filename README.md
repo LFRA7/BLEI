@@ -15,6 +15,8 @@ Além disso, conta com **autenticação segura** baseada em **Entity Framework**
 - MVC — Model-View-Controller;
 - Autenticação com Identity (via Entity Framework).
 
+---
+
 ## ✅ Funcionalidades
 
 - 📘 Cadastro de livros: inclusão, edição, listagem e remoção de livros;
