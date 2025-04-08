@@ -17,8 +17,8 @@ Além disso, conta com **autenticação segura** baseada em **Entity Framework**
 
 ## ✅ Funcionalidades
 
--📘 Cadastro de livros: inclusão, edição, listagem e remoção de livros;
--👤 Gerir usuários: registro de Leitores, Bibliotecários e Administradores;
+- 📘 Cadastro de livros: inclusão, edição, listagem e remoção de livros;
+- 👤 Gerir usuários: registro de Leitores, Bibliotecários e Administradores;
 -🔄 Controlo de empréstimos: sistema de requisição e devolução de livros;
 -🕓 Histórico de empréstimos: registro completo de movimentações de cada usuário;
 -📊 Controlo de disponibilidade: mostra livros disponíveis ou emprestados;
