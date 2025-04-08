@@ -22,6 +22,6 @@ Além disso, conta com **autenticação segura** baseada em **Entity Framework**
 - 🔄 Controlo de empréstimos: sistema de requisição e devolução de livros;
 - 🕓 Histórico de empréstimos: registro completo de movimentações de cada usuário;
 - 📊 Controlo de disponibilidade: mostra livros disponíveis ou emprestados;
-- ⏰ Validação de prazos e penalidades: Emissão de alerta caso o utilizador tenha livros que já passou a data de devolução;
+- ⏰ Alertas: Emissão de alerta caso o utilizador tenha livros que já passou a data de devolução;
 - 🔍 Busca e filtros: permite encontrar livros por nome, autor, categoria, etc;
 - 🔐 Autenticação segura com ASP.NET Identity: controlo de acesso seguro.
